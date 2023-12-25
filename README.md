@@ -1,4 +1,4 @@
 # Bit
 This is my first Git Repository.
 <br>
-Author - Sahil Sawant
+Author - (Sahil)
